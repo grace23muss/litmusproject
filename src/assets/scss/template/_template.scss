@@ -1,0 +1,185 @@
+html,body{
+  background: $body-background;
+  background-color:$body-background;
+  font-family: $body-font-family;
+  padding-top: 25px;
+  padding-bottom: 16px;
+}
+//header
+.header{
+  background: #ffffff;
+  background-color: #ffffff;
+  &> tbody> tr> th> table> tbody> tr> th> a>img{
+    width: 159px;
+    object-fit: cover;
+  }
+  &> tbody> tr> th> table> tbody> tr> th> a{
+    text-decoration: underline;
+    color: #262524;
+    text-align: center;
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+}
+//content-message section
+
+.content-message{
+  background: #ffffff;
+  background-color: #ffffff;
+  &> tbody> tr> th> table> tbody> tr> th> span{
+    font-size: 18px;
+    color: #262524;
+    text-align: center;
+  }
+  
+  th{
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+}
+//image section
+.image{
+  &> tbody> tr> th> table> tbody> tr> th> a> img{
+    width: 489px;
+    object-fit: cover;
+  }
+ th{
+  padding-top: 0px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ }
+}
+//guide section
+.guide{
+  &> tbody> tr> th> table> tbody> tr> th> span{
+    font-size: 18px;
+    color: #262524;
+    text-align: center;
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+}
+//button section
+.bouton{
+  &> tbody> tr> th> table> tbody> tr> th> center> a{
+    background-color: #4CAF50;
+    background: #4CAF50;
+    font-size: 18px !important;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    color:#ffffff;
+    &:hover{
+      color:black;
+      background: #8abb8c;
+      background-color: #8abb8c;
+    }
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+  }
+}
+ //client-support section
+ .client-support{
+  background: #ffffff;
+  background-color: #ffffff;
+  &> tbody> tr> th> table> tbody> tr> th> span{
+    font-size: 18px;
+    color: #262524;
+    text-align: center;
+    line-height: 28px;
+  }
+  th{
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+  }
+}
+//footer section
+.testimonials{
+ background: #093a52;
+ background-color: #093a52;
+ &> tbody> tr> th> table> tbody> tr> th> center> img{
+   width: 160px;
+   object-fit: cover;
+   padding-bottom: 20px;
+ }
+ &> tbody> tr> th> table> tbody> tr> th> p> em,p{
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  text-align: center;
+ }
+ th{
+   padding-bottom: 20px;
+   padding-top:20px;
+   padding-left: 20px;
+   vertical-align: middle;
+ }
+}
+//preferences section
+.update-preferences{
+  background: $body-background;
+  background-color: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> span,a{
+    font-size: 14px;
+    line-height: 24px;
+    color: #4b525d;
+  }
+  th{
+    padding-top:20px;
+    vertical-align: middle;
+    padding-left: 0px;
+    text-align: center;
+  }
+}
+//logo footer section
+.image-footer{
+  background: $body-background;
+  background-color: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> center> img{
+    width:120px;
+  }
+  th{
+    padding-bottom: 10px;
+    padding-top: 0px;
+    vertical-align: middle;
+    padding-left: 0px;
+  }
+}
+//copyright section
+.addresse-copyright{
+  background: $body-background;
+  background-color: $body-background;
+  &> tbody> tr> th> table> tbody> tr> th> span,a{
+    font-size: 14px;
+    line-height: 28px;
+    color: #4b525d;
+
+  }
+  th{
+    vertical-align: middle;
+    padding-left: 0px;
+    text-align: center;
+  }
+}

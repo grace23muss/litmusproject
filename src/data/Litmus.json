@@ -1,0 +1,57 @@
+{
+    "UserData":{
+        "logoIMG":"https://i.imgur.com/cvy1HWS.png",
+        "LoginInfo":"Login"
+    },
+    "theContent":{
+        "GreetINg":" Hi there,",
+        "EmailDev":"Email development can take hours.",
+        "LitmusBUilDer":"But with Litmus Builder, you can ",
+        "CreaTIon":"create emails in a fraction of the time.",
+        "Coder":"if you’re new to email or not a coder:",
+        "TExt":"You don’t need to",
+        "SimpleUse":"know how to code to create a great-looking email. Simply use ",
+        "PreTestedTemplate":"one of your existing templates, or one of our pre-tested",
+        "VisualEDitOr":"templates in Litmus Builder. Then use Visual Editor to edit the text, images, links, and other content without ever touching the code."
+    },
+    "gifIMg":{
+        "uRl":"https://i.imgur.com/6xFiE54.gif"
+    },
+    "THeGuide":{
+        "HtmLEmails":"But if you know your way around an HTML email:",
+        "Begin":"Start",
+        "LibraryTemplate":"building your template library inside Litmus.",
+        "Modules":" Create modules",
+        "EmailProduction":"and templates to speed up email production—so you and your team can get more projects out the door in less time.",
+        "Guideline":" Read our guide ",
+        "waLKThrough":" to get a quick walkthrough."
+    },
+    "Button":{
+        "BoutTON":"Create a Builder Project"
+    },
+    "CustomerSUpport":{
+        "SUppOrt":"Have questions or need help? Just reply back—we’ll be here!",
+        "HapPY":" Cheers,",
+        "Friend":" Your friends at Litmus"
+    },
+    "ClientTestimonials":{
+        "userFACE":"https://i.imgur.com/wsRyFW9.png",
+        "EXperience":"“Litmus gives us the ability to use email metadata for deeper",
+        "INsighT":" insights on behavior and enables Samsung to do a targeted",
+        "FOllowUP":"follow up directly.”",
+        "CustmerName":"COEN VAN DER VEN,",
+        "CustomerRole":"CRM SPECIALIST, SAMSUNG"
+    },
+    "Update":{
+        "FREEtrial":"You’re receiving this email because you signed up for a free trial of Litmus.If you’d prefer not to receive emails, you can ",
+        "PreferENCes":"update your preferences."
+    },
+    "footERlOgo":{
+        "logoIMg":"https://i.imgur.com/5a9lHyu.png"
+    },
+    "COPYriGHt":{
+        "ADdresse":"675 Massachusetts Ave. Cambridge, MA 02139, USA",
+        "View":"Unsubscribe  |  View online",
+        "RightReserved":"© 2021 Litmus Software, Inc. All rights reserved."
+    }
+}
